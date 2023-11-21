@@ -1,0 +1,4 @@
+F:\GB\Сети\Практика\Net_HW_1\obj\Debug\net6.0\Net_HW_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\Сети\Практика\Net_HW_1\obj\Debug\net6.0\Net_HW_1.AssemblyInfoInputs.cache
+F:\GB\Сети\Практика\Net_HW_1\obj\Debug\net6.0\Net_HW_1.AssemblyInfo.cs
+F:\GB\Сети\Практика\Net_HW_1\obj\Debug\net6.0\Net_HW_1.csproj.CoreCompileInputs.cache
