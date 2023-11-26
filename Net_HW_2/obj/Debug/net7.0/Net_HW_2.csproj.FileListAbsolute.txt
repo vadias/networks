@@ -1,0 +1,14 @@
+F:\GB\Сети\Практика\Net_HW_2\bin\Debug\net7.0\Net_HW_2.exe
+F:\GB\Сети\Практика\Net_HW_2\bin\Debug\net7.0\Net_HW_2.deps.json
+F:\GB\Сети\Практика\Net_HW_2\bin\Debug\net7.0\Net_HW_2.runtimeconfig.json
+F:\GB\Сети\Практика\Net_HW_2\bin\Debug\net7.0\Net_HW_2.dll
+F:\GB\Сети\Практика\Net_HW_2\bin\Debug\net7.0\Net_HW_2.pdb
+F:\GB\Сети\Практика\Net_HW_2\obj\Debug\net7.0\Net_HW_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\Сети\Практика\Net_HW_2\obj\Debug\net7.0\Net_HW_2.AssemblyInfoInputs.cache
+F:\GB\Сети\Практика\Net_HW_2\obj\Debug\net7.0\Net_HW_2.AssemblyInfo.cs
+F:\GB\Сети\Практика\Net_HW_2\obj\Debug\net7.0\Net_HW_2.csproj.CoreCompileInputs.cache
+F:\GB\Сети\Практика\Net_HW_2\obj\Debug\net7.0\Net_HW_2.dll
+F:\GB\Сети\Практика\Net_HW_2\obj\Debug\net7.0\refint\Net_HW_2.dll
+F:\GB\Сети\Практика\Net_HW_2\obj\Debug\net7.0\Net_HW_2.pdb
+F:\GB\Сети\Практика\Net_HW_2\obj\Debug\net7.0\Net_HW_2.genruntimeconfig.cache
+F:\GB\Сети\Практика\Net_HW_2\obj\Debug\net7.0\ref\Net_HW_2.dll
