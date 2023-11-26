@@ -123,10 +123,7 @@ internal class Program
             }
              
                 Console.WriteLine("Для завершения нажмите exit");
-                while ( Console.ReadLine() != "exit" )
-                {
-                    
-                }
+                while ( Console.ReadLine() != "exit" ) {}
                 Environment.Exit(0);
          }
         //var message = new Message() { DateMessage = DateTime.Now,
